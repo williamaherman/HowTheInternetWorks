@@ -1,5 +1,8 @@
 # HowTheInternetWorks
-he objective of this assignment is to get you familiarized with how the Internet works. You need to work individually for this assignment. You need to create a website (like one in the History of the Internet assignment) and explain some of the following topics:
+
+THE URL TO MY SITE IS: https://williamaherman.github.io/HowTheInternetWorks/.
+
+The objective of this assignment is to get you familiarized with how the Internet works. You need to work individually for this assignment. You need to create a website (like one in the History of the Internet assignment) and explain some of the following topics:
 
 Domain names and ICANN IP Addresses, Packets and Routing DNS HTTP and HTTPS protocols W3C and HTML and CSS
 

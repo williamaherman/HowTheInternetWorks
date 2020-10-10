@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339f58e0-e8fc-40e0-8ab1-115a23e1b46f" name="Default Changelist" comment="bug: fixed navbar">
+    <list default="true" id="339f58e0-e8fc-40e0-8ab1-115a23e1b46f" name="Default Changelist" comment="bug: README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602291677203</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="bug: README.md">
+      <created>1602292088728</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602292088728</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,21 +197,23 @@
     <MESSAGE value="feature: about page content" />
     <MESSAGE value="feature: content for wirecablewifi" />
     <MESSAGE value="bug: fixed navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug: fixed navbar" />
+    <MESSAGE value="bug: README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug: README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2646" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602280148285">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="726" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602292390237">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="726" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602292390237" />
     <state x="2646" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602280148285" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1602285268062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602285268062" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602291683423">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602292089575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602291683423" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602292089575" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602291180683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
