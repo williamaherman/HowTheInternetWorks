@@ -20,13 +20,14 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:ipdns" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:prr" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="339f58e0-e8fc-40e0-8ab1-115a23e1b46f" name="Default Changelist" comment="feature: added content to http page">
-      <change beforePath="$PROJECT_DIR$/ipdns.html" beforeDir="false" afterPath="$PROJECT_DIR$/ipdns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prr.html" beforeDir="false" afterPath="$PROJECT_DIR$/prr.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -78,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602277920759</updated>
       <workItem from="1602277921881" duration="10881000" />
+      <workItem from="1602289196442" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="feature: projects bones">
       <created>1602280498943</created>
@@ -173,7 +176,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="ipdns" />
+                        <option value="prr" />
                       </list>
                     </value>
                   </entry>
@@ -184,6 +187,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature: projects bones" />
@@ -207,6 +211,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602285268062" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1602289144837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602289144837" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602285291439">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
