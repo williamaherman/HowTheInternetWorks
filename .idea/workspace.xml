@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:ipdns" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="339f58e0-e8fc-40e0-8ab1-115a23e1b46f" name="Default Changelist" comment="feature: added content to http page">
+      <change beforePath="$PROJECT_DIR$/ipdns.html" beforeDir="false" afterPath="$PROJECT_DIR$/ipdns.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="http" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iepThKUxwC5BufK35EUrzyGhct" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wherman\WebstormProjects\HowTheInternetWorks\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="339f58e0-e8fc-40e0-8ab1-115a23e1b46f" name="Default Changelist" comment="" />
+      <created>1602277920759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602277920759</updated>
+      <workItem from="1602277921881" duration="10881000" />
+    </task>
+    <task id="LOCAL-00001" summary="feature: projects bones">
+      <created>1602280498943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602280498944</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added css bootstrap">
+      <created>1602280754618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602280754618</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bug: completed home page and added bootstrap temp">
+      <created>1602282713057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602282713057</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feature: added text">
+      <created>1602284510941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602284510941</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task: added image">
+      <created>1602284760254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602284760254</updated>
+    </task>
+    <task id="LOCAL-00006" summary="task: created page">
+      <created>1602284886162</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602284886162</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feature: about page content">
+      <created>1602286152169</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602286152169</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feature: about page content">
+      <created>1602286948911</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602286948911</updated>
+    </task>
+    <task id="LOCAL-00009" summary="task: added gitignore">
+      <created>1602287001179</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602287001179</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feature: added content">
+      <created>1602287373164</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602287373164</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feature: added content to http page">
+      <created>1602288157486</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602288157486</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="ipdns" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature: projects bones" />
+    <MESSAGE value="added css bootstrap" />
+    <MESSAGE value="bug: completed home page and added bootstrap temp" />
+    <MESSAGE value="feature: added text" />
+    <MESSAGE value="task: added image" />
+    <MESSAGE value="task: created page" />
+    <MESSAGE value="feature: about page content" />
+    <MESSAGE value="task: added gitignore" />
+    <MESSAGE value="feature: added content" />
+    <MESSAGE value="feature: added content to http page" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: added content to http page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2646" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602280148285">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2646" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602280148285" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1602285268062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602285268062" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602285291439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602285291439" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602285380717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602285380717" />
+    <state x="739" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602285176624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="233" key="git4idea.branch.GitSmartOperationDialog/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602285176624" />
+  </component>
+</project>
