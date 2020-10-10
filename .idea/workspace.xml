@@ -20,14 +20,19 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:wiresCablesWIFI" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:about" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="339f58e0-e8fc-40e0-8ab1-115a23e1b46f" name="Default Changelist" comment="bug">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2020_7_12_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2020_7_12_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2020_8_35_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_2020_8_35_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encryption.html" beforeDir="false" afterPath="$PROJECT_DIR$/encryption.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/howTheInternetWorks.html" beforeDir="false" afterPath="$PROJECT_DIR$/howTheInternetWorks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/http.html" beforeDir="false" afterPath="$PROJECT_DIR$/http.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipdns.html" beforeDir="false" afterPath="$PROJECT_DIR$/ipdns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatIsTheInternet.html" beforeDir="false" afterPath="$PROJECT_DIR$/whatIsTheInternet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wiresCablesWIFI.html" beforeDir="false" afterPath="$PROJECT_DIR$/wiresCablesWIFI.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +50,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="about" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -137,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602286948911</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feature: content for wirecablewifi">
+      <created>1602291118921</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602291118921</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +166,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="about" />
                       </list>
                     </value>
                   </entry>
@@ -175,7 +187,8 @@
     <MESSAGE value="task: added image" />
     <MESSAGE value="task: created page" />
     <MESSAGE value="feature: about page content" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: about page content" />
+    <MESSAGE value="feature: content for wirecablewifi" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: content for wirecablewifi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2646" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602280148285">
@@ -186,14 +199,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602285268062" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602285291439">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602291128034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602285291439" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602285380717">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602291128034" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602291180683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602285380717" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.4.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602291180683" />
     <state x="739" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602285176624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
